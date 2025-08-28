@@ -19,3 +19,6 @@ bash
 git clone
 cd biblioteca
 npm
+
+Profe, no lo quiero hacerle entender que me sé esto, lo hice con Chat GPT, no lo copié, intenté endender el codigo de la mejor manera, gracias por su atención
+
